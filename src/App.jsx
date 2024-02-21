@@ -16,7 +16,7 @@ function App() {
         <Link to="/invoices">Invoices</Link> |{" "}
         <Link to="/expenses">Expenses</Link>
       </nav>
-      <h1>React with Vite</h1>
+      <h1>React with Vite + GitHub actions</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
